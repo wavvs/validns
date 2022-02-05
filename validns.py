@@ -1,5 +1,6 @@
 import csv
 import dns.resolver
+import dns.exception
 import sys
 import random
 import string
